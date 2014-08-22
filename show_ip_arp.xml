@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ins_api>
+  <type>cli_show</type>
+  <version>0.1</version>
+  <sid>eoc</sid>
+  <outputs>
+    <output>
+      <body>
+        <TABLE_vrf>
+         <ROW_vrf>
+          <vrf-name-out>default</vrf-name-out>
+          <cnt-total>1</cnt-total>
+          <TABLE_adj>
+           <ROW_adj>
+            <intf-out>Ethernet1/1</intf-out>
+            <ip-addr-out>10.10.10.10</ip-addr-out>
+            <time-stamp>-</time-stamp>
+            <mac>1111.2222.3333</mac>
+           </ROW_adj>
+          </TABLE_adj>
+         </ROW_vrf>
+        </TABLE_vrf>
+       </body>
+      <input>show ip arp</input>
+      <msg>Success</msg>
+      <code>200</code>
+    </output>
+  </outputs>
+</ins_api>

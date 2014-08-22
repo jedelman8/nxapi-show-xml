@@ -1,0 +1,15 @@
+FYI
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ins_api>
+  <type>cli_show</type>
+  <version>0.1</version>
+  <sid>eoc</sid>
+  <outputs>
+    <output>
+      <input>show processes cpu</input>
+      <msg>Structured output unsupported</msg>
+      <code>501</code>
+    </output>
+  </outputs>
+</ins_api>

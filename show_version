@@ -1,0 +1,48 @@
+east-9k1# show version
+Cisco Nexus Operating System (NX-OS) Software
+TAC support: http://www.cisco.com/tac
+Copyright (C) 2002-2014, Cisco and/or its affiliates.
+All rights reserved.
+The copyrights to certain works contained in this software are
+owned by other third parties and used and distributed under their own
+licenses, such as open source.  This software is provided "as is," and unless
+otherwise stated, there is no warranty, express or implied, including but not
+limited to warranties of merchantability and fitness for a particular purpose.
+Certain components of this software are licensed under
+the GNU General Public License (GPL) version 2.0 or 
+GNU General Public License (GPL) version 3.0  or the GNU
+Lesser General Public License (LGPL) Version 2.1 or 
+Lesser General Public License (LGPL) Version 2.0. 
+A copy of each such license is available at
+http://www.opensource.org/licenses/gpl-2.0.php and
+http://opensource.org/licenses/gpl-3.0.html and
+http://www.opensource.org/licenses/lgpl-2.1.php and
+http://www.gnu.org/licenses/old-licenses/library.txt.
+
+Software
+  BIOS: version 07.06
+  NXOS: version 6.1(2)I2(1)
+  BIOS compile time:  03/02/2014
+  NXOS image file is: bootflash:///n9000-dk9.6.1.2.I2.1.bin
+  NXOS compile time:  3/15/2014 19:00:00 [03/16/2014 04:26:07]
+
+
+Hardware
+  cisco Nexus9000 C9396PX Chassis 
+  Intel(R) Core(TM) i3-3227U C with 16402720 kB of memory.
+  Processor Board ID SAL1819S6BE
+
+  Device name: east-9k1
+  bootflash:   21693714 kB
+Kernel uptime is 1 day(s), 17 hour(s), 9 minute(s), 46 second(s)
+
+Last reset at 350735 usecs after  Wed Aug 20 18:53:06 2014
+
+  Reason: Reset Requested by CLI command reload
+  System version: 6.1(2)I2(1)
+  Service: 
+
+plugin
+  Core Plugin, Ethernet Plugin
+
+Active Packages:
